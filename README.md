@@ -1,2 +1,2 @@
-# WiFi-FireLamp-ESP8622-
+# WiFi FireLamp (ESP8622)
 Start ! ! !
